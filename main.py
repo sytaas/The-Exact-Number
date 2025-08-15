@@ -1,3 +1,4 @@
+#Copyright (c) 2025 Abhishek Sharma. All Rights Reserved.
 import random
 print('WELCOME TO THE GAME -"THE EXACT GUESS"...')
 
@@ -22,5 +23,6 @@ elif 6 <= guess <= 10:
     print("👏 Well done! You got it in a decent number of tries.")
 else:
     print("😅 You got there in the end! Keep practicing!")
+
 
 print(f'You guessed the correct number in {guess} attempts\n')
